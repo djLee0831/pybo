@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-go-a2e!_v2sv3p86e^ejiss5)6=4s_3g6@4+xy)u6fwdwjed8k
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['3.35.145.137']
+ALLOWED_HOSTS = ['3.35.145.137', 'pybo.kro.kr']
 
 
 # Application definition
